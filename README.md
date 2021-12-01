@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
+
 **CSI-Javier-Quintana/CSI-Javier-Quintana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hello i am a student in middle school.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on absolutly nothing 
+- 🌱 I’m currently learning on mark down and html
+- 👯 I’m looking to collaborate on mark down
+- 🤔 I’m looking for help with coding
+- 💬 Ask me about mark down
+- 📫 How to reach me: figure it out
+- 😄 Pronouns: yuh
+- ⚡ Fun fact: your gay
 -->
