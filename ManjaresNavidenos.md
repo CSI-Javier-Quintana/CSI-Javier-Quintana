@@ -3,11 +3,11 @@
 <img src="https://media.metrolatam.com/2018/12/04/screenshot20181204at81503am-fd494d5b88c08142ccfb690deb844e74-1200x800.jpg" width="520" height="374"/>
   
 ## Manjares Navideños
-### tembleque de coco
+### Tembleque de coco
   
 </div>  
   
-### ingredientes
+### Ingredientes
 - 2 tazas de leche de coco
 - 1 taza de azucar
 - 1/2 cucharadita de sal
@@ -33,5 +33,5 @@
 ### Video:
 https://www.youtube.com/watch?v=_FvySjGyBvY
 
-### Refrences:
+### References:
 https://www.recetaspuertorico.com/recetas/tembleque-de-coco/
